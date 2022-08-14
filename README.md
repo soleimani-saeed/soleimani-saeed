@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @soleimani-saeed
 - 👀 I’m interested in GEE code developing!
 - 🌱 I’m currently learning JavaScript.
-- 💞️ I’m looking to collaborate on GEE
+- 💞️ I’m looking to collaborate on GEE projects.
 - 📫 How to reach me t.me/989355258117
 
 <!---
